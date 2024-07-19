@@ -1,11 +1,11 @@
-                          Automatic Question Generation -ARABIC-
+                          Automatic Opinion Question Generation  
 
 
  
 
 This file contains the final report along with the code of each phase of training and testing.
 
-The following work is done using an Encoder-decoder with an Attention mechanism to generate questions in Arabic and English. It uses a beam search decoding algorithm in order to generate multiple questions from one input.
+The following work is done using an Encoder-decoder with an Attention mechanism to generate questions in Arabic and English. It uses a beam search decoding algorithm to generate multiple questions from one input.
 
 To use this work, you must:
 
